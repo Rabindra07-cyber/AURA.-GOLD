@@ -1,0 +1,6 @@
+{
+  "name": "AURA GOLD — Haute Couture & Gold Accessories Atelier",
+  "description": "An ultra-luxury online boutique featuring bespoke designer fashion, 24K gold accessories, seamless multi-rail payment checkout, and an intuitive private admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
